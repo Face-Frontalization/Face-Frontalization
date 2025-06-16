@@ -11,7 +11,7 @@ Face frontalization refers to generating a front-facing image of a person given 
 ## Repository Contents
 
 - 📄 [Project Writeup (PDF)](https://github.com/Face-Frontalization/Face-Frontalization/blob/main/Face-Frontalization-Writeup.pdf)  
-- 🎞️ [Project Presentation (PPTX)](https://github.com/Face-Frontalization/Face-Frontalization/blob/main/Face_Frontalization_Presentation.pptx)  
+- 🎞️ [Project Presentation (PPTX)](https://github.com/Face-Frontalization/Face-Frontalization/blob/main/Face-Frontalization-Presentation.pdf)  
 - 💻 [Model Code](https://github.com/Face-Frontalization/Face-Frontalization/blob/main/Model.txt)
 
 ## Dataset
