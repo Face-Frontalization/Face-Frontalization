@@ -66,4 +66,23 @@ frontalized_img = frontalize_image("path/to/profile.jpg")
 plt.imshow(frontalized_img)
 plt.title("Frontalized Output")
 plt.axis("off")
+```
+We also evaluate outputs using:
+ - PSNR (Peak Signal-to-Noise Ratio)
+ - SSIM (Structural Similarity Index)
 
+## Applications
+ - Face Recognition (pose-invariant)
+ - Security & Surveillance
+ - Augmented Reality (AR)
+ - Digital Forensics
+
+## Contributors
+
+- **[Abhinav Sinha]()** (230042)  📧 abhinavsi23@iitk.ac.in  
+
+- **[Ashish Kumar Soni](https://github.com/SPIKIE-24)** (230228)  📧 sashish23@iitk.ac.in  
+
+- **[Rudransh Verma](https://github.com/RudranshVerma23)** (230881)  📧 rudranshv23@iitk.ac.in  
+
+- **[Tanvi Pooranmal Meena](https://github.com/tanvincible)** (231085)  📧 mtanvi23@iitk.ac.in  
