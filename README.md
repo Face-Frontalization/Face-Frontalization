@@ -79,7 +79,7 @@ We also evaluate outputs using:
 
 ## Contributors
 
-- **[Abhinav Sinha]()** (230042)  📧 abhinavsi23@iitk.ac.in  
+- **[Abhinav Sinha](https://github.com/Abhinav-Sinha589)** (230042)  📧 abhinavsi23@iitk.ac.in  
 
 - **[Ashish Kumar Soni](https://github.com/SPIKIE-24)** (230228)  📧 sashish23@iitk.ac.in  
 
